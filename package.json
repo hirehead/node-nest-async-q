@@ -1,0 +1,29 @@
+{
+  "name": "nest-async-q",
+  "version": "0.0.0",
+  "description": "q implementation of the nest-async",
+  "main": "index.js",
+  "dependencies": {
+    "q": "~1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-tsd": "~0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirehead/node-nest-async-q.git"
+  },
+  "keywords": [
+    "nest-async"
+  ],
+  "author": "hirehead",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hirehead/node-nest-async-q/issues"
+  },
+  "homepage": "https://github.com/hirehead/node-nest-async-q"
+}
