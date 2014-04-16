@@ -6,13 +6,13 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "node/node.d.ts": {
-      "commit": "980c3b10199892aa2f5867e27c5d2688d0b225b6"
+      "commit": "67aa15a029f4382a51a92413aac0e07d9c579e13"
     },
     "q/Q.d.ts": {
-      "commit": "980c3b10199892aa2f5867e27c5d2688d0b225b6"
+      "commit": "67aa15a029f4382a51a92413aac0e07d9c579e13"
     },
     "jquery/jquery.d.ts": {
-      "commit": "980c3b10199892aa2f5867e27c5d2688d0b225b6"
+      "commit": "67aa15a029f4382a51a92413aac0e07d9c579e13"
     }
   }
 }
