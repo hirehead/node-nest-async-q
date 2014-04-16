@@ -1,0 +1,9 @@
+.git
+node_modules
+typings
+.gitignore
+.npmignore
+gruntfile.js
+index.ts
+tsd.json
+tsd-nest.json
