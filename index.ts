@@ -1,7 +1,10 @@
-/// <reference path="typings/tsd.d.ts" />
+/// <reference path="_ref.d.ts" />
 var q = require('q');
 
-module.exports.step = (app?: Nest.INest) => {
-    app.q = < any > q;
-    return app;
+module.exports.step = (app: Nest.INest, done: () => any) => {
+    app.modules.push({
+    	name: "IAsync",
+    	key: "NestAsyncQ",
+    	instance : q,
+    });
 }
