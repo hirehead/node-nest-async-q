@@ -1,6 +1,6 @@
 {
   "name": "nest-async-q",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "q implementation of the nest-async",
   "main": "index.js",
   "dependencies": {
